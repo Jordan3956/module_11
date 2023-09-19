@@ -1,4 +1,1 @@
-# In this project I created w ipynbs  Scrape titles and preview text from Mars news articles.
-
-
-Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
+# In this project I was tasked with the following Scrape titles and preview text from Mars news articles and Scrape and analyze Mars weather data, which exists in a table. You will find this analysis in part_1_mars_news.ipynb and part_2_mars_weather.ipynb. I was able to use my chromedriver extention to scrape data/text/ect from "https://static.bc-edx.com/data/web/mars_news/index.html" and analyze a lot of data. I was able to extract text elements from the website as well as store the data into a pandas dataframe and even make some visualizations with the scraped data. Al of this is show in the two ipynb files as well as the scraped data from the url stored in a csv file.
